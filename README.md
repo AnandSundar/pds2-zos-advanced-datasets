@@ -404,7 +404,7 @@ If you're looking for someone who can build modern software **and** work confide
 **Built with 🤍 on IBM Z · Powered by JCL · Validated by IBM**
 
 [![IBM Z Xplore](https://img.shields.io/badge/Learn%20Mainframe-IBM%20Z%20Xplore-0043CE?style=flat-square&logo=ibm)](https://ibmzxplore.influitive.com/)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/More%20Projects-GitHub-181717?style=flat-square&logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/anandsundar96)
+[![GitHub](https://img.shields.io/badge/More%20Projects-GitHub-181717?style=flat-square&logo=github)](https://github.com/anandsundar)
 
 </div>
